@@ -1,0 +1,1 @@
+If your group meets at 36 Degrees North, link from your user group website to the [36 Degrees North](http://www.36degreesnorth.co/) website.
