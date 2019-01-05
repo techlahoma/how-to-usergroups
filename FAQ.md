@@ -23,9 +23,11 @@ No. It is important both for insurance purposes and our UG guests that our CoC r
 ***
 
 ### How do we join our new or existing user group with the Techlahoma family?
-If Techlahoma accepts user group applications most of the year via [this form](https://docs.google.com/forms/d/12XkE4PE5S2vgmMDaIp-RrHXmtU46_vCSLBPJnyeLW4s/edit).  After the submission deadline (mid December) the form will close until the approval process is done.
+If Techlahoma accepts user group applications most of the year via [this form](https://goo.gl/forms/gmVTM1cru0jDcp2F2).  After the submission deadline (mid December) the form will close until the approval process is done.
 
 After you submit the form, the user group must be approved by the board committee with an 80% vote. This vote occurs once a year in January. Once you're approved, a board member or volunteer will be in touch to help get you set up.
+
+The specific dates for the above will be [here](https://www.techlahoma.org/usergroups/).
 
 ***
 
