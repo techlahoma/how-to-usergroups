@@ -1,0 +1,3 @@
+GitHub is the ticketing system for user groups. If you need Techlahoma volunteers to address something related to your user group, create a GitHub [issue](https://github.com/techlahoma/user-groups/issues).
+
+Each user group has a [label](https://github.com/techlahoma/user-groups/labels) to make it easier for you to find the issues for your group. This is where you can check the status of your group’s [food](https://github.com/techlahoma/user-groups/labels/food) and [scheduling](https://github.com/techlahoma/user-groups/labels/scheduling) issues.

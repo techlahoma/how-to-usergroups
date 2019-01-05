@@ -1,0 +1,1 @@
+This page has been moved to https://github.com/techlahoma/broadcasting/blob/master/Presentation-Tips.md
