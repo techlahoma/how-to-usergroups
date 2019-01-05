@@ -8,7 +8,7 @@ Pretty self explanatory, but if you don't see your question here please [create 
 * [A third party delivered our grub, how should we tip?](#a-third-party-delivered-our-grub-how-should-we-tip)
 * [We no longer wish to meet on nth day of the month. How do we go about changing when we meet?](#we-no-longer-wish-to-meet-on-nth-day-of-the-month-how-do-we-go-about-changing-when-we-meet)
 * [Does Techlahoma own our user group once we join?](#does-techlahoma-own-our-user-group-once-we-join)
-* [What do we need to do when we need to cancel a meeting?](#what-do-we-need-to-do-when-we-cancel-an-event)
+* [What do we need to do when we need to cancel or reschedule a meeting?](#what-do-we-need-to-do-when-we-cancel-or-reschedule-an-event)
 
 ***
 
@@ -63,5 +63,5 @@ Nope. Whatever your reasons may be, you are free to distance your group from Tec
 
 ***
 
-### What do we need to do when we cancel an event?
-TODO
+### What do we need to do when we cancel or reschedule an event?
+[Cancelling and Rescheduling](https://github.com/techlahoma/user-group-docs/blob/master/Meetup-Events.md#cancelling-and-rescheduling)
