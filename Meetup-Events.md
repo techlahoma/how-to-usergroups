@@ -4,7 +4,9 @@ Creating a Meetup event triggers the user group automation. This includes creati
 
 The scheduled announcements won't reflect any changes you make to the Meetup event, so it’s important to have that information correct when you first create the event.  If you don’t know what the topic will be at that point, use a generic title like `Monthly Meetup` rather than `TBD`.
 
-When you’re looking for someone to give a presentation, try asking for volunteers in [Slack](https://techlahoma.slack.com/messages/speakers/) and on Twitter. We also have a list of available [Speakers and Topics](https://github.com/techlahoma/user-groups/blob/master/SPEAKERS-AND-TOPICS.md).
+Due to the above automation, if you can avoid creating repeating Meetup events, it would help.
+
+When you’re looking for someone to give a presentation, try asking for volunteers in [Slack](https://techlahoma.slack.com/messages/speakers/) and on Twitter. We also have a list of available [Speakers and Topics](https://github.com/techlahoma/user-groups/blob/master/SPEAKERS-AND-TOPICS.md) and a [Speakers Wanted board](https://speakers-wanted.techlahoma.org/).
 
 As a user group leader, try to be the first from your group to arrive, ideally 15-30 minutes before the meetup starts. Identify yourself as a leader of the group when starting the meetup and introducing the speaker. Be sure to clean up after the meetup.
 
