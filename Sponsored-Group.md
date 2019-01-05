@@ -6,7 +6,7 @@ Please note that we use [Meetup](https://www.meetup.com/) for creating and manag
 
 Techlahoma sponsorship includes funding for food and drinks at your meetings. If you aren't sure what qualifies for a reimbursement, please read our [user group reimbursement page.](https://github.com/techlahoma/user-group-docs/blob/master/Requesting-Reimbursement.md)  
 
-Techlahoma uses a [Slack channel](link) to communicate. We definitely recommend you join to meet other usergroup leaders and ask (and answer!) questions. Please specifically join the `#usergroup-organizers` channel. This is where usergroup specific announcements are made and where any questions for the user group committee can be answered. Feel free to ask questions!  
+Techlahoma uses a [Slack channel](http://slack.techlahoma.org) to communicate. We definitely recommend you join to meet other usergroup leaders and ask (and answer!) questions. Please specifically join the `#usergroup-organizers` channel. This is where usergroup specific announcements are made and where any questions for the user group committee can be answered. Feel free to ask questions!  
 
 Please add your group to the appropriate folder in the [`user-groups` repository](https://github.com/techlahoma/user-groups) on Github. If your group is already documented, please make sure everything in up-to-date.  
 
