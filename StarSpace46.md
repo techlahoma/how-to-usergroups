@@ -1,4 +1,4 @@
-The leaders of all user groups that meet at StarSpace46 must agree to the [StarSpace46 User Group Leader Agreement](https://docs.google.com/document/d/10wtP8VqrHo_Sb0s-d4veaOeGsrfVz7Dlnmx4Ykn61FE)
+The leaders of all user groups that meet at StarSpace46 must agree to the [StarSpace46 User Group Leader Agreement](https://docs.google.com/document/d/1q1m6q4v3VrS6yVuP-tVImkNZZXG0pq_uktydbfWiovM/edit)
 
 Please promote StarSpace46 on social media and link from your user group website to the [StarSpace46](http://www.starspace46.com/) website.
 
@@ -10,14 +10,14 @@ If your meetup is in the Holodeck, tell attendees to use the south door.
 
 If your meetup is in the event space, tell attendees to use the west entrance instead of the south door. Before the meetup, open the west gate and watch the door for food delivery and attendees. Close the west gate and verify that the outside door is fully closed after the meetup.
 
-If you would like to use the projectors in the event space and/or have the meetup streamed on [Twitch](https://www.twitch.tv/techlahoma), please ask whether a volunteer is available at least one week ahead of time. The current streaming volunteers are Ava (`@avasond` in the Techlahoma Slack and on [Twitter](https://twitter.com/avasond)) and Kimberly (`@kimberlycollins` in the Techlahoma Slack and `@kacollins` on GitHub).
+If you would like to use the projectors in the event space and/or have the meetup streamed on [Twitch](https://www.twitch.tv/techlahoma), please ask on [slack](https://techlahoma.slack.com/messages/GDG4UT8A0/) whether a volunteer is available at least one week ahead of time. 
 
 Streaming is optional. If the content of the presentation is sensitive or presenters are uncomfortable with it (especially for lightning talks), the meetup doesn’t have to be streamed to Twitch.
 
-When streaming, make sure that the microphone is turned on, and ask presenters to turn off display tools like [f.lux](https://justgetflux.com/).
+When streaming, make sure that the microphone is turned on, and ask presenters to turn off blue light reduction display tools like [f.lux](https://justgetflux.com/) as these will not look good on-stream.
 
-You don’t need to bring plates, cups, or utensils to StarSpace46. Plates and napkins are on the shelves above the kitchen sink.
+You don’t need to bring plates, cups, or utensils to StarSpace46. Plates and napkins are on the shelves above the kitchen sink.  If any of these supplies are missing, please mention it in [slack](https://techlahoma.slack.com/messages/GDG4UT8A0/).
 
 Take out the trash before you leave. There is a dumpster right outside the event space's east door. Trash bags are under the sink in the kitchen.
 
-The Starspace 46 guest password is `Techlahoma`.
+The `Starspace 46 guest` password is `Techlahoma`.
