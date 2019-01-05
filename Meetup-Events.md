@@ -6,9 +6,10 @@ The scheduled announcements won't reflect any changes you make to the Meetup eve
 
 When you’re looking for someone to give a presentation, try asking for volunteers in [Slack](https://techlahoma.slack.com/messages/speakers/) and on Twitter. We also have a list of available [Speakers and Topics](https://github.com/techlahoma/user-groups/blob/master/SPEAKERS-AND-TOPICS.md).
 
+As a user group leader, try to be the first from your group to arrive, ideally 15-30 minutes before the meetup starts. Identify yourself as a leader of the group when starting the meetup and introducing the speaker. Be sure to clean up after the meetup.
+
+### Cancelling and Rescheduling
 If you need to cancel or reschedule a meetup, let Techlahoma volunteers and the venue know as soon as possible so that they can update the announcements, A/V team scheduling, and venue reservations. You can do this in a few different ways:
 * Create a GitHub issue about the [scheduling](https://github.com/techlahoma/user-groups/labels/scheduling) change.
 * Post in the [#usergroup-organizers](https://techlahoma.slack.com/messages/usergroup-organizers/) channel in Slack (and tag @avasond for StarSpace46).
 * Contact Sarah at sarah@36n.co for 36°N.
-
-As a user group leader, try to be the first from your group to arrive, ideally 15-30 minutes before the meetup starts. Identify yourself as a leader of the group when starting the meetup and introducing the speaker. Be sure to clean up after the meetup.
