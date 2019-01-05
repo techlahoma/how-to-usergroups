@@ -18,10 +18,10 @@ We have a few requirements for your meetup.
   We have automation in place that schedules tweets and opens issues, and recurring events don't play nicely with our automation.
   
 - Schedule all meetings at least 7 days in advance  
-  Please make sure the event is created on meetup *at least 7 days in advance.* There are a few reasons for this, including our automation and generally making sure space is available. It's also nice for your attendees to be able to know when and where the next meeting will be with enough planning time.
+  Please make sure the event is created on meetup *at least 7 days in advance.* There are a few reasons for this, including our automation and generally making sure space is available. It's also nice for your attendees to be able to know when and where the next meeting will be with enough planning time. Meetup automatically announces your meeting 7 days before it occurs to your members as well.
 
 - Coordinate any streaming with the broadcasting committee  
-  If you would like your meetup to be streamed, please contact the broadcasting committee to coordinate. You can ask questions in the `#ss46-ug-leaders` channel in slack. (If you are not in this channel, you can request access from the usergroup committee.)
+  If you would like your meetup to be streamed, please contact the broadcasting committee to coordinate. You can ask questions in the [#ss46-ug-leaders](https://techlahoma.slack.com/messages/GDG4UT8A0/) channel in slack. (If you are not in this channel, you can request access from the usergroup committee.)
 
 *Please note: if your meetup is not created at least 7 days in advance, **you _will not_ be able to meet at Starspace46.***
 
@@ -37,7 +37,7 @@ If you *do not meet in OKC*, please contact the broadcast committee to coordinat
 
 You will receive an invitation to join the `User Group Leaders` team on Github. *You must accept this invitation to qualify for reimbursement.*
 
-Issues are automatically created on Github to handle food and drink reimbursement. All of the reimbursement verification is managed through Github issues. If you are unfamiliar with the reimbursement process, [please review our reimbursement how-to page.](link)
+Issues are automatically created on Github to handle food and drink reimbursement. All of the reimbursement verification is managed through Github issues. If you are unfamiliar with the reimbursement process, [please review our reimbursement how-to page.](https://github.com/techlahoma/user-group-docs/blob/master/Requesting-Reimbursement.md)
 
 If you require an alternative to reimbursement, please contact the usergroup committee at {{ EMAIL }}.
 
