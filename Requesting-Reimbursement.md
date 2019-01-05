@@ -6,17 +6,17 @@ All reimbursement through Techlahoma is done through Venmo. A Venmo account is r
 
 ## Requesting Reimbursement via Venmo
 1. Go to the search function of Venmo to search for Techlahoma.
-    ![Step 1](./images/venmo-request-step-1.png =360x640)
+    <img src="https://github.com/techlahoma/user-group-docs/blob/master/images/venmo-request-step-1.png" width="360">
 2. Search for @techlahoma and select the Techlahoma Foundation.
-    ![Step 2](./images/venmo-request-step-2.png =360x640)
+    <img src="https://github.com/techlahoma/user-group-docs/blob/master/images/venmo-request-step-2.png" width="360">
 3. Add the Techlahoma Foundation as a friend.
-    ![Step 3](./images/venmo-request-step-3.png =360x640)
+    <img src="https://github.com/techlahoma/user-group-docs/blob/master/images/venmo-request-step-3.png" width="360">
 4. Return to the home screen and make a new Venmo request.
-    ![Step 4](./images/venmo-request-step-4.png =360x640)
+    <img src="https://github.com/techlahoma/user-group-docs/blob/master/images/venmo-request-step-4.png" width="360">
 5. Select the Techlahoma Foundation for this request.
-    ![Step 5](./images/venmo-request-step-5.png =360x640)
+    <img src="https://github.com/techlahoma/user-group-docs/blob/master/images/venmo-request-step-5.png" width="360">
 6. Enter the amount of the reimbursement request, your group name, the GitHub issue number for reimbursement.
-    ![Step 6](./images/venmo-request-step-6.png =360x640)
+    <img src="https://github.com/techlahoma/user-group-docs/blob/master/images/venmo-request-step-6.png" width="360">
 
 ## Additional Required Steps in GitHub
 1. A copy of the receipt *must* attached to your GitHub issue based on the type of reimbursement.
