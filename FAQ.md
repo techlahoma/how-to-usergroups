@@ -13,7 +13,7 @@ Pretty self explanatory, but if you don't see your question here please [create 
 ***
 
 ### What does Techlahoma offer to user groups?
-Info coming soon.
+This depends on the [type of user group](https://github.com/techlahoma/user-group-docs/blob/master/User-Group-Types.md), but generally includes a Meetup.com subscription and (for sponsored groups) food and venue assistance.
 
 ***
 
@@ -23,7 +23,7 @@ No. It is important both for insurance purposes and our UG guests that our CoC r
 ***
 
 ### How do we join our new or existing user group with the Techlahoma family?
-If Techlahoma accepts user group applications most of the year via [this form](https://goo.gl/forms/gmVTM1cru0jDcp2F2).  After the submission deadline (mid December) the form will close until the approval process is done.
+Techlahoma accepts user group applications most of the year via [this form](https://goo.gl/forms/gmVTM1cru0jDcp2F2).  After the submission deadline (mid December), the form will close until the approval process is done.
 
 After you submit the form, the user group must be approved by the board committee with an 80% vote. This vote occurs once a year in January. Once you're approved, a board member or volunteer will be in touch to help get you set up.
 
@@ -32,18 +32,7 @@ The specific dates for the above will be [here](https://www.techlahoma.org/userg
 ***
 
 ### How do we order food?
-Create an issue in this repo at least 24 hours in advance. Provide the following details:
-* Where
-* When
-* Event url
-* Expected RSVP total, if not available at event url.
-
-If the food was delivered by a third party, please post a picture of the receipt to the issue thread. This is so we can track tipping but also financial data for our records.
-
-***
-
-### A third party delivered our grub, how should we tip?
-Techlahoma will cover the gratuity up to 20%. You only need to worry about the amount if you are signing the receipt. Please post a picture of the receipt to the issue created for the food request.
+User group leaders are responsible for buying or ordering [food and drinks](https://github.com/techlahoma/user-group-docs/blob/master/Food-and-Drinks.md) for their meetups and may be eligible for [reimbursement](https://github.com/techlahoma/user-group-docs/blob/master/Requesting-Reimbursement.md).
 
 ***
 
