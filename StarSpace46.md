@@ -7,7 +7,7 @@ The leaders of all user groups that meet at StarSpace46 must agree to the [StarS
 Please promote StarSpace46 on social media and link from your user group website to the [StarSpace46](http://www.starspace46.com/) website.
 
 ## StarSpace46 Reservations and Meetup.com
-If your user group is meeting at StarSpace46, reservations there will not be completed until your event is scheduled on [Meetup](https://www.meetup.com/). Include the [parking map](https://static1.squarespace.com/static/57422f09ab48dec01e5e20c7/t/588fb33ee3df2828e8ceb5ab/1485814862865/ss46parking) on the meetup page. It's also available at http://www.starspace46.com/events and http://www.starspace46.com/contact.
+If your user group is meeting at StarSpace46, reservations there will not be completed until your event is scheduled on [Meetup](https://www.meetup.com/). Include the [parking map](https://static1.squarespace.com/static/57422f09ab48dec01e5e20c7/t/588fb33ee3df2828e8ceb5ab/1485814862865/ss46parking) on the meetup page. Their calendar is available at https://www.starspace46.com/calendar-1/ and their contact information is at  http://www.starspace46.com/contact.
 
 Techlahoma doesn't have unlimited credit hours with StarSpace46, and we would like to onboard more user groups, so please limit the meetup to less than three hours. You can see the booking information in the GitHub [scheduling](https://github.com/techlahoma/user-groups/labels/scheduling) issue. If StarSpace46 has been booked for longer than you need, please make a comment on the issue.
 
