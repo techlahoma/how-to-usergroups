@@ -8,7 +8,7 @@ Starting in February 2018, all user groups approved for assistance with food and
 * The acting treasurer will make the final call if anything is in question.
 * User group leaders who are not comfortable with this arrangement may defer to the acting treasurer for other arrangements.
 
-Process for requesting reimbursement is listed on the [reimbursement](https://github.com/techlahoma/user-groups/wiki/Requesting-Reimbursement) wiki page.
+[Process for requesting reimbursement](https://github.com/techlahoma/user-group-docs/blob/master/Requesting-Reimbursement.md)
 
 Location Specific Notes:
 * StarSpace46 - You don’t need to bring plates, cups, or utensils. Plates and napkins are on the shelves above the kitchen sink.
