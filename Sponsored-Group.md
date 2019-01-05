@@ -48,7 +48,7 @@ If your group plans to meet at Starspace46:
 - At least two co-organizers must sign and return the [Starspace46 User Group Leader](https://docs.google.com/document/d/1q1m6q4v3VrS6yVuP-tVImkNZZXG0pq_uktydbfWiovM/) agreement to Ava by 2/1.  
   You may sign the agreement and send Ava a picture of the signed agreement on Slack.
   
-- Meetups must be scheduled at least one week in advance
+- Meetups must be scheduled at least one week in advance  
   Starspace requires at least 7 days notice in order to use the event space. If your meetup is not scheduled at least one week in advance, Starspace46 will not be available.
 
 ### 36 Degrees North
