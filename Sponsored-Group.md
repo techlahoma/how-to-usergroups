@@ -8,7 +8,7 @@ Techlahoma sponsorship includes funding for food and drinks at your meetings. If
 
 Techlahoma uses a [Slack channel](http://slack.techlahoma.org) to communicate. We definitely recommend you join to meet other usergroup leaders and ask (and answer!) questions. Please specifically join the `#usergroup-organizers` channel. This is where usergroup specific announcements are made and where any questions for the user group committee can be answered. Feel free to ask questions!  
 
-Please add your group to the appropriate folder in the [`user-groups` repository](https://github.com/techlahoma/user-groups) on Github. If your group is already documented, please make sure everything in up-to-date.  
+Please add your group to the appropriate folder in the [`user-groups` repository](https://github.com/techlahoma/user-groups) on Github. If your group is already documented, please make sure everything is up-to-date.  
 
 ### Making a Meetup
 
@@ -21,7 +21,7 @@ We have a few requirements for your meetup.
   Please make sure the event is created on meetup *at least 7 days in advance.* There are a few reasons for this, including our automation and generally making sure space is available. It's also nice for your attendees to be able to know when and where the next meeting will be with enough planning time. Meetup automatically announces your meeting 7 days before it occurs to your members as well.
 
 - Coordinate any streaming with the broadcasting committee  
-  If you would like your meetup to be streamed, please contact the broadcasting committee to coordinate. You can ask questions in the [#ss46-ug-leaders](https://techlahoma.slack.com/messages/GDG4UT8A0/) channel in slack. (If you are not in this channel, you can request access from the usergroup committee.)
+  If you would like your meetup to be streamed, please contact the broadcasting committee to coordinate. You can ask questions in the [#ss46-ug-leaders](https://techlahoma.slack.com/messages/GDG4UT8A0/) channel in Slack. (If you are not in this channel, you can request access from the usergroup committee.)
 
 *Please note: if your meetup is not created at least 7 days in advance, **you _will not_ be able to meet at Starspace46.***
 
