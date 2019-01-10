@@ -15,7 +15,7 @@ Starting in February 2018, all user groups approved for assistance with food and
 Process for requesting reimbursement is listed on the [reimbursement](./Requesting-Reimbursement.md).
 
 ## Location Specific Notes
-**StarSpace46** - You don’t need to bring plates, cups, or utensils. Plates and napkins are on the shelves above the kitchen sink.
+[**StarSpace46** ](https://github.com/techlahoma/user-group-docs/blob/master/StarSpace46.md#food-drinks-and-cleanup)
 
 **36 Degrees** - There are extra plates, cups, and utensils located in the shelf labeled `Techlahoma` in the main meeting room on the far left by the sink.
 
