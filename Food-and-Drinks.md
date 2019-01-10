@@ -17,6 +17,6 @@ Process for requesting reimbursement is listed on the [reimbursement](./Requesti
 ## Location Specific Notes
 [**StarSpace46** ](https://github.com/techlahoma/user-group-docs/blob/master/StarSpace46.md#food-drinks-and-cleanup)
 
-**36 Degrees** - There are extra plates, cups, and utensils located in the shelf labeled `Techlahoma` in the main meeting room on the far left by the sink.
+[**36 Degrees North**](https://github.com/techlahoma/user-group-docs/blob/master/36-Degrees-North.md)
 
 If food was not requested when your user group was onboarded, you will have to wait until you submit the [user group application](https://docs.google.com/forms/d/e/1FAIpQLSdZWz8DMl95ONdr9YZl4qghLFfNZXDxwr_4P2690EAGbgl6eg/viewform?c=0&w=1) for sponsorship for the next year when the Techlahoma board reviews and approves expenses.
