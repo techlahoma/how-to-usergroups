@@ -27,8 +27,12 @@ Streaming is optional. If the content of the presentation is sensitive or presen
 ### Streaming and Blue Light Reduction Tools
 When streaming, make sure that the microphone is turned on, and ask presenters to turn off blue light reduction display tools like [f.lux](https://justgetflux.com/) as these will not look good on-stream.
 
-## Utensils for Food and Cleanup
-You don’t need to bring plates, cups, or utensils to StarSpace46. Plates and napkins are on the shelves above the kitchen sink.  If any of these supplies are missing, please mention it in [slack](https://techlahoma.slack.com/messages/GDG4UT8A0/).
+## Food, Drinks, and Cleanup
+Plates, napkins, cups, and utensils are on the shelves in the back of the event space. If these supplies are running low, please mention it in [slack](https://techlahoma.slack.com/messages/GDG4UT8A0/).
+
+You can use the drinks on the shelves, but please use up two-liters before cans. Label open two-liters with the date.
+
+Do not leave behind any food or drinks that need to be refrigerated (like sweet tea).
 
 Take out the trash before you leave. There is a dumpster right outside the event space's east door. Trash bags are under the sink in the kitchen.
 
