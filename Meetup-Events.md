@@ -18,4 +18,4 @@ If you need to cancel or reschedule a meetup, let Techlahoma volunteers and the 
 
 #### If your meetup title or time changed
 
-Please open an issue in the [`user-group`](https://github.com/techlahoma/user-groups/issues) repository using the `meetup-changed` label so that user group committee volunteers can make the necessary changes. Please include in the issue what specifically changed -- whether it is the description, meetup title, or time/date/
+Please open an issue in the [`user-group`](https://github.com/techlahoma/user-groups/issues) repository using the `meetup-changed` label so that user group committee volunteers can make the necessary changes. Please include in the issue what specifically changed -- whether it is the description, meetup title, or time/date.
